@@ -1,0 +1,12 @@
+G:\5 курс\Солодовников\5lab\bin\Debug\5lab.exe.config
+G:\5 курс\Солодовников\5lab\bin\Debug\5lab.exe
+G:\5 курс\Солодовников\5lab\bin\Debug\5lab.pdb
+G:\5 курс\Солодовников\5lab\obj\Debug\5lab.csproj.AssemblyReference.cache
+G:\5 курс\Солодовников\5lab\obj\Debug\_5lab.Properties.Resources.resources
+G:\5 курс\Солодовников\5lab\obj\Debug\_5lab.View.View_Bowser.resources
+G:\5 курс\Солодовников\5lab\obj\Debug\5lab.csproj.GenerateResource.cache
+G:\5 курс\Солодовников\5lab\obj\Debug\5lab.csproj.CoreCompileInputs.cache
+G:\5 курс\Солодовников\5lab\obj\Debug\5lab.exe
+G:\5 курс\Солодовников\5lab\obj\Debug\5lab.pdb
+G:\5 курс\Солодовников\5lab\obj\Debug\_5lab.View.ViewAuthorization.resources
+G:\5 курс\Солодовников\5lab\obj\Debug\_5lab.View.ViewUsers.resources
